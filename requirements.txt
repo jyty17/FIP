@@ -56,6 +56,6 @@ Unidecode==1.2.0
 urllib3==1.26.5
 vishap==0.1.5
 websocket-client==0.57.0
-websockets==8.1
+websockets==9.1
 whitenoise==5.2.0
 zope.interface==5.2.0
